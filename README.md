@@ -21,4 +21,4 @@
 
 Движение в право - правая стрелка
 
-[Автор
+[Автор](https://github.com/Zakir23102008/space-war/edit/main/README.md)
